@@ -11,5 +11,8 @@
         <module name="mall-user-service-provider" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-dubbo" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
